@@ -56,3 +56,7 @@ This project demonstrates the core principles behind such systems in a simplifie
 - Multi-ECU update support
 - CAN communication simulation
 - AUTOSAR Adaptive integration concepts
+
+  ##Dashboard link
+  https://2757ce20-fe58-4af5-b154-45ea413716e4-00-1qxcujm3sil33.pike.replit.dev/
+  
